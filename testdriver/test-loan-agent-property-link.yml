@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
+  - prompt: Click on "Loan Agent Property".
+    commands:
+      - command: hover-text
+        text: Loan Agent Property
+        description: link in the business loans section
+        action: click
