@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
+  - prompt: Click on "Corporate Finance Group".
+    commands:
+      - command: hover-text
+        text: Corporate Finance Group
+        description: link under Corporate Financing
+        action: click
