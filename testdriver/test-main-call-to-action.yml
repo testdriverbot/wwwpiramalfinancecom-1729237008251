@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
+  - prompt: Click on the "Home Loan" link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: link for home loan
+        action: click
