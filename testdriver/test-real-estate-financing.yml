@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
+  - prompt: Click on "Real Estate Financing".
+    commands:
+      - command: hover-text
+        text: Real Estate Financing
+        description: link for real estate financing
+        action: click
