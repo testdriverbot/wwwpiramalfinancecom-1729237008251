@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
+  - prompt: Click on "Personal Loan".
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: link under Other Products
+        action: click
